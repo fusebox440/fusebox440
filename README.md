@@ -1,87 +1,127 @@
-# Lakshya Khetan
+<h1 align="center">Lakshya Khetan</h1>
+<p align="center">
+Computer Science Undergraduate • Full Stack Developer • Backend Enthusiast
+</p>
 
-Computer Science undergraduate at **Vellore Institute of Technology (VIT)** graduating in **2026**.  
-Interested in backend engineering, distributed systems, and building reliable full-stack applications.
-
-I enjoy working on systems that involve **API design, authentication, data modeling, and real-time communication**.
-
----
-
-## What I'm Working On
-
-- Building and improving full-stack web applications  
-- Strengthening backend engineering skills with **Node.js and system design concepts**  
-- Practicing **Data Structures and Algorithms**  
-- Exploring scalable application architecture
+<p align="center">
+<a href="mailto:lakshyakhetan00@gmail.com">Email</a> •
+<a href="https://github.com/fusebox440">GitHub</a>
+</p>
 
 ---
 
-## Tech Stack
+## About
 
-**Languages**  
-C++, Java, Python, C, JavaScript, TypeScript  
+I am a Computer Science undergraduate at **Vellore Institute of Technology (VIT)** graduating in **2026**.
 
-**Frontend**  
-React.js, Next.js, HTML, CSS, Tailwind CSS  
+My primary interest lies in **backend engineering and full-stack application development**. I enjoy building systems that involve API design, authentication workflows, data modeling, and real-time communication.
 
-**Backend**  
-Node.js, Express.js, REST APIs, authentication, server-side validation  
+Most of my projects focus on building practical systems rather than isolated features.
 
-**Databases**  
-MongoDB, MySQL, PostgreSQL  
+---
 
-**Data Tools**  
-NumPy, Pandas, Matplotlib, Seaborn  
+## Current Focus
 
-**Tools**  
-Git, GitHub, Postman, VS Code
+- Building scalable **full-stack applications**
+- Improving **backend architecture and API design**
+- Practicing **data structures and algorithms**
+- Learning **system design fundamentals**
+
+---
+
+## Technology Stack
+
+**Languages**
+
+C++ • Java • Python • C • JavaScript • TypeScript
+
+**Frontend**
+
+React.js • Next.js • HTML • CSS • Tailwind CSS
+
+**Backend**
+
+Node.js • Express.js • REST APIs • Authentication • Server-side validation
+
+**Databases**
+
+MongoDB • MySQL • PostgreSQL
+
+**Data Tools**
+
+NumPy • Pandas • Matplotlib • Seaborn
+
+**Tools**
+
+Git • GitHub • Postman • VS Code
 
 ---
 
 ## Selected Projects
 
 ### Fusebox Bank
+
 Full-stack banking system built with **React, Node.js, Express, and MongoDB**.
 
-Features:
-- Secure authentication using JWT  
-- Transaction tracking and balance management  
-- RESTful API architecture  
-- Structured data handling for financial records
+Key features
 
----
+- JWT-based authentication
+- transaction and balance tracking
+- REST API architecture
+- structured data handling for financial records
+
 
 ### EduFlow
-A learning management platform supporting **course creation, enrollment, and structured content delivery**.
 
-Highlights:
-- Role-based access control  
-- Backend APIs for course and user management  
-- MongoDB-based data modeling
+Learning management platform supporting **course creation, enrollment, and role-based access control**.
 
----
+Key features
+
+- role-based authorization
+- course and user management APIs
+- structured backend workflows
+
 
 ### Real-Time Chat Application
-Messaging platform built with **React, Node.js, Socket.IO, and MongoDB**.
 
-Highlights:
-- Real-time messaging with WebSockets  
-- Persistent message storage  
-- User session management
+Messaging platform built using **React, Node.js, Socket.IO, and MongoDB**.
+
+Key features
+
+- WebSocket-based messaging
+- persistent message storage
+- user session handling
 
 ---
 
 ## Experience
 
-**Web Development Intern — Primus Partners**  
-Worked on application modules for a government digital portal used by **10,000+ users**, focusing on workflow design and form validation systems.
+**Web Development Intern — Primus Partners**
 
-**Web Development Intern — KalkiFI AI Solutions**  
-Developed backend components involving **API communication and database-centric application logic**.
+Worked on application modules for a government digital portal serving **10,000+ users**, focusing on form validation workflows and structured data exchange.
+
+**Web Development Intern — KalkiFI AI Solutions**
+
+Developed backend components involving **API communication and database-driven application logic**.
+
+---
+
+## GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=fusebox440&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fusebox440&layout=compact&hide_border=true" />
+</p>
 
 ---
 
 ## Contact
 
-Email: **lakshyakhetan00@gmail.com**  
-GitHub: https://github.com/fusebox440
+Email  
+lakshyakhetan00@gmail.com
+
+GitHub  
+https://github.com/fusebox440
